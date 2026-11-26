@@ -1,0 +1,7 @@
+archetype_id,archetype,n,share,mpg,mp,usg,height,fg3a_rate,ast_pct,per,ws_48,bpm,vorp,on_off_pm,pos_pg,pos_sg,pos_sf,pos_pf,pos_c,profile
+0,Interior Scorer,637,0.136,26.479,1680.879,22.879,81.915,0.213,13.718,17.995,0.121,0.966,1.477,0.96,0.35,1.735,7.363,35.389,55.229,"+DREB%, +weight, +height, +shooting fouls drawn, -3PA rate, -AST/TO"
+1,Scoring Creator,623,0.133,31.568,2017.597,27.444,76.22,0.354,27.123,18.729,0.114,2.046,2.254,2.289,46.685,29.392,16.27,7.183,0.543,"+usage, +assist%, +bad passes, +lost balls, -assisted 3s, -assisted 2s"
+2,Pass-First Guard,805,0.172,22.72,1406.8,18.588,74.81,0.4,22.453,12.569,0.069,-1.273,0.386,-0.549,63.839,27.139,7.176,1.708,0.211,"+AST/TO, +assist%, +bad passes, +charges drawn, -height, -weight"
+3,Rim-Running Big,593,0.127,20.805,1323.531,16.096,82.354,0.048,8.63,17.452,0.15,0.163,0.854,0.561,0.364,0.358,1.017,14.632,83.688,"+dunk share, +rim (0-3ft) share, +OREB%, +block%, -3PA rate, -FT%"
+4,Movement / Spot-up Shooter,1157,0.248,23.504,1535.148,16.928,78.186,0.564,9.745,11.974,0.083,-0.924,0.527,-0.14,7.551,30.315,33.742,23.279,5.234,"+3PA rate, +3P%, +assisted 3s, +FT%, -3-10ft share, -shots blocked"
+5,Low-Usage Role Wing,854,0.183,21.143,1325.748,16.235,79.023,0.375,9.296,11.841,0.074,-1.766,0.181,-0.856,2.587,17.102,35.886,34.65,9.874,"+corner-3 share, +assisted 3s, +shots blocked, +assisted 2s, -assist%, -usage"

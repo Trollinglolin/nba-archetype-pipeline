@@ -1,0 +1,79 @@
+player_id,player_name,season,season_end,team,archetype_id,archetype,dist_to_centroid,second_archetype,ambiguity,kind
+leuerjo01,Jon Leuer,2015-16,2016,PHO,0,Interior Scorer,1.799,Low-Usage Role Wing,0.501,representative
+morrima02,Markieff Morris,2013-14,2014,PHO,0,Interior Scorer,1.961,Low-Usage Role Wing,0.432,representative
+woodch01,Christian Wood,2022-23,2023,DAL,0,Interior Scorer,2.009,Low-Usage Role Wing,0.461,representative
+simshe01,Henry Sims,2014-15,2015,PHI,0,Interior Scorer,2.063,Low-Usage Role Wing,0.52,representative
+portibo01,Bobby Portis,2017-18,2018,CHI,0,Interior Scorer,2.067,Low-Usage Role Wing,0.491,representative
+vucevni01,Nikola Vučević,2014-15,2015,ORL,0,Interior Scorer,2.099,Low-Usage Role Wing,0.418,representative
+beaslmi01,Michael Beasley,2013-14,2014,MIA,0,Interior Scorer,2.127,Low-Usage Role Wing,0.59,representative
+humphkr01,Kris Humphries,2016-17,2017,ATL,0,Interior Scorer,2.17,Low-Usage Role Wing,0.68,representative
+bealbr01,Bradley Beal,2018-19,2019,WAS,1,Scoring Creator,1.716,Pass-First Guard,0.449,representative
+bledser01,Eric Bledsoe,2019-20,2020,MIL,1,Scoring Creator,1.764,Pass-First Guard,0.473,representative
+mitchdo01,Donovan Mitchell,2025-26,2026,CLE,1,Scoring Creator,1.877,Pass-First Guard,0.372,representative
+middlkh01,Khris Middleton,2018-19,2019,MIL,1,Scoring Creator,1.899,Pass-First Guard,0.496,representative
+clarkjo01,Jordan Clarkson,2014-15,2015,LAL,1,Scoring Creator,1.973,Pass-First Guard,0.673,representative
+banede01,Desmond Bane,2023-24,2024,MEM,1,Scoring Creator,1.983,Pass-First Guard,0.534,representative
+bealbr01,Bradley Beal,2017-18,2018,WAS,1,Scoring Creator,1.992,Pass-First Guard,0.526,representative
+mitchdo01,Donovan Mitchell,2019-20,2020,UTA,1,Scoring Creator,2.007,Pass-First Guard,0.438,representative
+feltora01,Raymond Felton,2016-17,2017,LAC,2,Pass-First Guard,1.728,Movement / Spot-up Shooter,0.415,representative
+dragigo01,Goran Dragić,2018-19,2019,MIA,2,Pass-First Guard,1.768,Scoring Creator,0.754,representative
+payneca01,Cameron Payne,2018-19,2019,CHI/CLE,2,Pass-First Guard,1.839,Scoring Creator,0.434,representative
+dragigo01,Goran Dragić,2015-16,2016,MIA,2,Pass-First Guard,1.874,Scoring Creator,0.578,representative
+feltora01,Raymond Felton,2013-14,2014,NYK,2,Pass-First Guard,1.918,Scoring Creator,0.429,representative
+holidaa01,Aaron Holiday,2019-20,2020,IND,2,Pass-First Guard,1.951,Movement / Spot-up Shooter,0.443,representative
+josepco01,Cory Joseph,2016-17,2017,TOR,2,Pass-First Guard,1.962,Movement / Spot-up Shooter,0.437,representative
+jacksre01,Reggie Jackson,2023-24,2024,DEN,2,Pass-First Guard,1.993,Scoring Creator,0.503,representative
+mahinia01,Ian Mahinmi,2015-16,2016,IND,3,Rim-Running Big,1.355,Interior Scorer,0.283,representative
+dienggo01,Gorgui Dieng,2013-14,2014,MIN,3,Rim-Running Big,1.825,Interior Scorer,0.442,representative
+eubandr01,Drew Eubanks,2020-21,2021,SAS,3,Rim-Running Big,1.867,Interior Scorer,0.373,representative
+biyombi01,Bismack Biyombo,2017-18,2018,ORL,3,Rim-Running Big,2.076,Interior Scorer,0.378,representative
+willima07,Mark Williams,2022-23,2023,CHO,3,Rim-Running Big,2.12,Interior Scorer,0.376,representative
+durenja01,Jalen Duren,2022-23,2023,DET,3,Rim-Running Big,2.129,Interior Scorer,0.33,representative
+davised01,Ed Davis,2017-18,2018,POR,3,Rim-Running Big,2.154,Interior Scorer,0.362,representative
+bradlto01,Tony Bradley,2020-21,2021,PHI/OKC,3,Rim-Running Big,2.163,Interior Scorer,0.496,representative
+johnsca02,Cameron Johnson,2023-24,2024,BRK,4,Movement / Spot-up Shooter,1.261,Low-Usage Role Wing,0.384,representative
+moodymo01,Moses Moody,2025-26,2026,GSW,4,Movement / Spot-up Shooter,1.467,Low-Usage Role Wing,0.417,representative
+budinch01,Chase Budinger,2013-14,2014,MIN,4,Movement / Spot-up Shooter,1.545,Low-Usage Role Wing,0.418,representative
+rosste01,Terrence Ross,2013-14,2014,TOR,4,Movement / Spot-up Shooter,1.605,Low-Usage Role Wing,0.397,representative
+thompho01,Hollis Thompson,2014-15,2015,PHI,4,Movement / Spot-up Shooter,1.607,Low-Usage Role Wing,0.426,representative
+martica01,Cartier Martin,2013-14,2014,ATL/CHI,4,Movement / Spot-up Shooter,1.673,Low-Usage Role Wing,0.443,representative
+fontesi01,Simone Fontecchio,2025-26,2026,MIA,4,Movement / Spot-up Shooter,1.686,Low-Usage Role Wing,0.472,representative
+korkmfu01,Furkan Korkmaz,2019-20,2020,PHI,4,Movement / Spot-up Shooter,1.707,Low-Usage Role Wing,0.382,representative
+brownja02,Jaylen Brown,2016-17,2017,BOS,5,Low-Usage Role Wing,1.499,Interior Scorer,0.393,representative
+ennisja01,James Ennis III,2019-20,2020,PHI/ORL,5,Low-Usage Role Wing,1.685,Movement / Spot-up Shooter,0.493,representative
+mcdanja01,Jalen McDaniels,2020-21,2021,CHO,5,Low-Usage Role Wing,1.722,Interior Scorer,0.386,representative
+ellebcj01,CJ Elleby,2021-22,2022,POR,5,Low-Usage Role Wing,1.782,Movement / Spot-up Shooter,0.474,representative
+hendrta01,Taylor Hendricks,2025-26,2026,UTA/MEM,5,Low-Usage Role Wing,1.79,Movement / Spot-up Shooter,0.469,representative
+laravja01,Jake LaRavia,2025-26,2026,LAL,5,Low-Usage Role Wing,1.874,Movement / Spot-up Shooter,0.455,representative
+mcdanja01,Jalen McDaniels,2022-23,2023,CHO/PHI,5,Low-Usage Role Wing,1.885,Movement / Spot-up Shooter,0.483,representative
+finnedo01,Dorian Finney-Smith,2018-19,2019,DAL,5,Low-Usage Role Wing,1.899,Movement / Spot-up Shooter,0.507,representative
+antetgi01,Giannis Antetokounmpo,2018-19,2019,MIL,0,Interior Scorer,6.78,Rim-Running Big,0.997,ambiguous
+brookdi01,Dillon Brooks,2021-22,2022,MEM,0,Interior Scorer,5.012,Scoring Creator,0.996,ambiguous
+hilarne01,Nenê,2018-19,2019,HOU,0,Interior Scorer,5.108,Rim-Running Big,0.995,ambiguous
+pokusal01,Aleksej Pokusevski,2021-22,2022,OKC,0,Interior Scorer,4.19,Low-Usage Role Wing,0.994,ambiguous
+gayru01,Rudy Gay,2021-22,2022,UTA,0,Interior Scorer,2.9,Low-Usage Role Wing,0.992,ambiguous
+duranke01,Kevin Durant,2024-25,2025,PHO,1,Scoring Creator,5.344,Interior Scorer,0.996,ambiguous
+smithis01,Ish Smith,2015-16,2016,NOP/PHI,1,Scoring Creator,4.093,Pass-First Guard,0.996,ambiguous
+mccolcj01,CJ McCollum,2018-19,2019,POR,1,Scoring Creator,4.156,Pass-First Guard,0.993,ambiguous
+mudiaem01,Emmanuel Mudiay,2017-18,2018,DEN/NYK,1,Scoring Creator,3.281,Pass-First Guard,0.992,ambiguous
+greenge01,Gerald Green,2014-15,2015,PHO,1,Scoring Creator,4.06,Movement / Spot-up Shooter,0.988,ambiguous
+fishede01,Derek Fisher,2013-14,2014,OKC,2,Pass-First Guard,4.812,Movement / Spot-up Shooter,0.998,ambiguous
+inglejo01,Joe Ingles,2014-15,2015,UTA,2,Pass-First Guard,3.885,Movement / Spot-up Shooter,0.997,ambiguous
+canaais01,Isaiah Canaan,2016-17,2017,CHI,2,Pass-First Guard,3.645,Movement / Spot-up Shooter,0.996,ambiguous
+parketo01,Tony Parker,2013-14,2014,SAS,2,Pass-First Guard,4.203,Scoring Creator,0.996,ambiguous
+turneev01,Evan Turner,2013-14,2014,PHI/IND,2,Pass-First Guard,4.899,Interior Scorer,0.996,ambiguous
+landajo01,Jock Landale,2023-24,2024,HOU,3,Rim-Running Big,3.592,Interior Scorer,0.992,ambiguous
+garubus01,Usman Garuba,2022-23,2023,HOU,3,Rim-Running Big,5.033,Low-Usage Role Wing,0.992,ambiguous
+zelleco01,Cody Zeller,2014-15,2015,CHO,3,Rim-Running Big,4.82,Interior Scorer,0.992,ambiguous
+willizi01,Zion Williamson,2025-26,2026,NOP,3,Rim-Running Big,5.616,Interior Scorer,0.991,ambiguous
+wagnemo01,Moritz Wagner,2023-24,2024,ORL,3,Rim-Running Big,4.677,Interior Scorer,0.988,ambiguous
+greenjo02,Josh Green,2024-25,2025,CHO,4,Movement / Spot-up Shooter,3.646,Low-Usage Role Wing,0.999,ambiguous
+divindo01,Donte DiVincenzo,2022-23,2023,GSW,4,Movement / Spot-up Shooter,4.024,Pass-First Guard,0.999,ambiguous
+millspa02,Patty Mills,2022-23,2023,BRK,4,Movement / Spot-up Shooter,4.07,Pass-First Guard,0.998,ambiguous
+casspom01,Omri Casspi,2015-16,2016,SAC,4,Movement / Spot-up Shooter,4.142,Low-Usage Role Wing,0.998,ambiguous
+fournev01,Evan Fournier,2019-20,2020,ORL,4,Movement / Spot-up Shooter,3.367,Scoring Creator,0.997,ambiguous
+covinro01,Robert Covington,2019-20,2020,MIN/HOU,5,Low-Usage Role Wing,4.124,Movement / Spot-up Shooter,0.999,ambiguous
+cunnida01,Dante Cunningham,2014-15,2015,NOP,5,Low-Usage Role Wing,4.776,Movement / Spot-up Shooter,0.998,ambiguous
+thybuma01,Matisse Thybulle,2022-23,2023,PHI/POR,5,Low-Usage Role Wing,4.736,Movement / Spot-up Shooter,0.997,ambiguous
+hezonma01,Mario Hezonja,2016-17,2017,ORL,5,Low-Usage Role Wing,3.979,Movement / Spot-up Shooter,0.997,ambiguous
+villach01,Charlie Villanueva,2015-16,2016,DAL,5,Low-Usage Role Wing,5.017,Movement / Spot-up Shooter,0.997,ambiguous

@@ -1,0 +1,79 @@
+player_id,player_name,season,season_end,team,archetype_id,archetype,dist_to_centroid,second_archetype,ambiguity,kind
+1629614,Andrew Nembhard,2023-24,2024,IND,0,Pass-First Guard,1.952,Scoring Creator,0.393,representative
+1628988,Aaron Holiday,2019-20,2020,IND,0,Pass-First Guard,2.035,Scoring Creator,0.488,representative
+1629614,Andrew Nembhard,2022-23,2023,IND,0,Pass-First Guard,2.096,Movement / Spot-up Shooter,0.407,representative
+203526,Raul Neto,2019-20,2020,PHI,0,Pass-First Guard,2.155,Scoring Creator,0.482,representative
+101109,Raymond Felton,2016-17,2017,LAC,0,Pass-First Guard,2.19,Scoring Creator,0.484,representative
+1626166,Cameron Payne,2018-19,2019,CLE,0,Pass-First Guard,2.235,Scoring Creator,0.454,representative
+202709,Cory Joseph,2016-17,2017,TOR,0,Pass-First Guard,2.274,Scoring Creator,0.507,representative
+1629059,Elie Okobo,2019-20,2020,PHX,0,Pass-First Guard,2.349,Scoring Creator,0.464,representative
+1628470,Torrey Craig,2021-22,2022,PHX,1,Low-Usage Role Wing,1.782,Movement / Spot-up Shooter,0.382,representative
+1627827,Dorian Finney-Smith,2018-19,2019,DAL,1,Low-Usage Role Wing,1.942,Movement / Spot-up Shooter,0.396,representative
+1629139,Yuta Watanabe,2020-21,2021,TOR,1,Low-Usage Role Wing,2.17,Movement / Spot-up Shooter,0.5,representative
+1629052,Oshae Brissett,2021-22,2022,IND,1,Low-Usage Role Wing,2.32,Movement / Spot-up Shooter,0.514,representative
+1626224,Cedi Osman,2017-18,2018,CLE,1,Low-Usage Role Wing,2.337,Movement / Spot-up Shooter,0.55,representative
+1629604,CJ Elleby,2021-22,2022,POR,1,Low-Usage Role Wing,2.363,Movement / Spot-up Shooter,0.51,representative
+1629667,Jalen McDaniels,2021-22,2022,CHA,1,Low-Usage Role Wing,2.399,Movement / Spot-up Shooter,0.487,representative
+1630167,Obi Toppin,2020-21,2021,NYK,1,Low-Usage Role Wing,2.421,Interior Scorer,0.516,representative
+203920,Khem Birch,2017-18,2018,ORL,2,Rim Protector,2.237,Interior Scorer,0.404,representative
+1626158,Richaun Holmes,2023-24,2024,WAS,2,Rim Protector,2.308,Interior Scorer,0.363,representative
+1631105,Jalen Duren,2022-23,2023,DET,2,Rim Protector,2.357,Interior Scorer,0.334,representative
+203473,Dewayne Dedmon,2016-17,2017,SAS,2,Rim Protector,2.386,Interior Scorer,0.362,representative
+1631217,Moussa Diabaté,2025-26,2026,CHA,2,Rim Protector,2.39,Interior Scorer,0.34,representative
+203458,Alex Len,2019-20,2020,SAC,2,Rim Protector,2.414,Interior Scorer,0.443,representative
+202687,Bismack Biyombo,2019-20,2020,CHA,2,Rim Protector,2.429,Interior Scorer,0.358,representative
+1629234,Drew Eubanks,2020-21,2021,SAS,2,Rim Protector,2.459,Interior Scorer,0.388,representative
+1629661,Cameron Johnson,2023-24,2024,BKN,3,Movement / Spot-up Shooter,1.48,Low-Usage Role Wing,0.42,representative
+1628989,Kevin Huerter,2021-22,2022,ATL,3,Movement / Spot-up Shooter,1.775,Low-Usage Role Wing,0.413,representative
+1627788,Furkan Korkmaz,2020-21,2021,PHI,3,Movement / Spot-up Shooter,1.869,Low-Usage Role Wing,0.451,representative
+1631124,Julian Strawther,2025-26,2026,DEN,3,Movement / Spot-up Shooter,1.982,Low-Usage Role Wing,0.489,representative
+204020,Tyler Johnson,2017-18,2018,MIA,3,Movement / Spot-up Shooter,2.124,Low-Usage Role Wing,0.477,representative
+1629013,Landry Shamet,2020-21,2021,BKN,3,Movement / Spot-up Shooter,2.2,Low-Usage Role Wing,0.438,representative
+101123,Gerald Green,2016-17,2017,BOS,3,Movement / Spot-up Shooter,2.205,Low-Usage Role Wing,0.469,representative
+1627736,Malik Beasley,2019-20,2020,MIN,3,Movement / Spot-up Shooter,2.224,Low-Usage Role Wing,0.429,representative
+1628378,Donovan Mitchell,2025-26,2026,CLE,4,Scoring Creator,2.316,Pass-First Guard,0.425,representative
+1628378,Donovan Mitchell,2024-25,2025,CLE,4,Scoring Creator,2.442,Pass-First Guard,0.452,representative
+1628378,Donovan Mitchell,2019-20,2020,UTA,4,Scoring Creator,2.472,Pass-First Guard,0.541,representative
+1627763,Malcolm Brogdon,2021-22,2022,IND,4,Scoring Creator,2.567,Pass-First Guard,0.647,representative
+203078,Bradley Beal,2017-18,2018,WAS,4,Scoring Creator,2.578,Pass-First Guard,0.56,representative
+1626156,D'Angelo Russell,2020-21,2021,MIN,4,Scoring Creator,2.609,Pass-First Guard,0.571,representative
+1626144,Emmanuel Mudiay,2018-19,2019,NYK,4,Scoring Creator,2.635,Pass-First Guard,0.842,representative
+1628368,De'Aaron Fox,2024-25,2025,SAS,4,Scoring Creator,2.636,Pass-First Guard,0.616,representative
+2743,Kris Humphries,2016-17,2017,ATL,5,Interior Scorer,2.465,Rim Protector,0.501,representative
+1626174,Christian Wood,2022-23,2023,DAL,5,Interior Scorer,2.547,Rim Protector,0.432,representative
+203967,Dario Saric,2019-20,2020,PHX,5,Interior Scorer,2.691,Low-Usage Role Wing,0.632,representative
+1628976,Wendell Carter Jr.,2022-23,2023,ORL,5,Interior Scorer,2.784,Rim Protector,0.542,representative
+1628976,Wendell Carter Jr.,2021-22,2022,ORL,5,Interior Scorer,2.796,Rim Protector,0.577,representative
+1626168,Trey Lyles,2021-22,2022,SAC,5,Interior Scorer,2.834,Low-Usage Role Wing,0.557,representative
+1629016,Omari Spellman,2019-20,2020,MIN,5,Interior Scorer,2.962,Low-Usage Role Wing,0.564,representative
+1626174,Christian Wood,2020-21,2021,HOU,5,Interior Scorer,2.983,Rim Protector,0.511,representative
+1629628,RJ Barrett,2021-22,2022,NYK,0,Pass-First Guard,5.109,Movement / Spot-up Shooter,0.999,ambiguous
+1629001,De'Anthony Melton,2022-23,2023,PHI,0,Pass-First Guard,4.724,Low-Usage Role Wing,0.999,ambiguous
+204060,Joe Ingles,2018-19,2019,UTA,0,Pass-First Guard,4.71,Movement / Spot-up Shooter,0.997,ambiguous
+1630178,Tyrese Maxey,2021-22,2022,PHI,0,Pass-First Guard,4.893,Scoring Creator,0.996,ambiguous
+1628973,Jalen Brunson,2021-22,2022,DAL,0,Pass-First Guard,4.64,Scoring Creator,0.995,ambiguous
+1628398,Kyle Kuzma,2017-18,2018,LAL,1,Low-Usage Role Wing,4.218,Movement / Spot-up Shooter,0.999,ambiguous
+1630678,Terry Taylor,2021-22,2022,IND,1,Low-Usage Role Wing,6.399,Rim Protector,0.999,ambiguous
+1628432,Davon Reed,2021-22,2022,DEN,1,Low-Usage Role Wing,4.042,Movement / Spot-up Shooter,0.997,ambiguous
+1626224,Cedi Osman,2020-21,2021,CLE,1,Low-Usage Role Wing,3.882,Movement / Spot-up Shooter,0.996,ambiguous
+1642942,Jahmai Mashack,2025-26,2026,MEM,1,Low-Usage Role Wing,6.669,Pass-First Guard,0.995,ambiguous
+1626178,Rondae Hollis-Jefferson,2019-20,2020,TOR,2,Rim Protector,5.958,Low-Usage Role Wing,0.997,ambiguous
+1626204,Larry Nance Jr.,2018-19,2019,CLE,2,Rim Protector,5.623,Interior Scorer,0.99,ambiguous
+202389,Timofey Mozgov,2016-17,2017,LAL,2,Rim Protector,4.585,Interior Scorer,0.986,ambiguous
+1629627,Zion Williamson,2019-20,2020,NOP,2,Rim Protector,7.914,Interior Scorer,0.985,ambiguous
+1630214,Xavier Tillman,2020-21,2021,MEM,2,Rim Protector,4.499,Interior Scorer,0.982,ambiguous
+201229,Anthony Tolliver,2017-18,2018,DET,3,Movement / Spot-up Shooter,6.395,Low-Usage Role Wing,0.998,ambiguous
+1630217,Desmond Bane,2022-23,2023,MEM,3,Movement / Spot-up Shooter,4.981,Scoring Creator,0.998,ambiguous
+1628398,Kyle Kuzma,2024-25,2025,MIL,3,Movement / Spot-up Shooter,5.874,Low-Usage Role Wing,0.996,ambiguous
+2207,Joe Johnson,2017-18,2018,HOU,3,Movement / Spot-up Shooter,6.418,Low-Usage Role Wing,0.995,ambiguous
+1630202,Payton Pritchard,2022-23,2023,BOS,3,Movement / Spot-up Shooter,4.423,Pass-First Guard,0.995,ambiguous
+202689,Kemba Walker,2021-22,2022,NYK,4,Scoring Creator,5.296,Pass-First Guard,0.998,ambiguous
+203471,Dennis Schröder,2024-25,2025,DET,4,Scoring Creator,4.478,Pass-First Guard,0.997,ambiguous
+1642268,Isaiah Collier,2025-26,2026,UTA,4,Scoring Creator,5.877,Pass-First Guard,0.997,ambiguous
+201568,Danilo Gallinari,2018-19,2019,LAC,4,Scoring Creator,6.036,Movement / Spot-up Shooter,0.996,ambiguous
+1630536,Sharife Cooper,2025-26,2026,WAS,4,Scoring Creator,5.248,Pass-First Guard,0.996,ambiguous
+1627734,Domantas Sabonis,2024-25,2025,SAC,5,Interior Scorer,5.718,Rim Protector,0.998,ambiguous
+202328,Greg Monroe,2016-17,2017,MIL,5,Interior Scorer,5.735,Rim Protector,0.995,ambiguous
+2546,Carmelo Anthony,2019-20,2020,POR,5,Interior Scorer,6.442,Movement / Spot-up Shooter,0.994,ambiguous
+203932,Aaron Gordon,2024-25,2025,DEN,5,Interior Scorer,5.866,Low-Usage Role Wing,0.994,ambiguous
+1630264,Anthony Gill,2025-26,2026,WAS,5,Interior Scorer,5.008,Rim Protector,0.991,ambiguous

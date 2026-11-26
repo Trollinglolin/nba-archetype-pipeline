@@ -1,0 +1,7 @@
+archetype_id,archetype,n,share,mpg,mp,usg,height,fg3a_rate,ast_pct,per,ws_48,bpm,vorp,on_off_pm,pos_pg,pos_sg,pos_sf,pos_pf,pos_c,profile
+0,Pass-First Guard,594,0.164,22.606,1391.288,0.181,75.093,0.397,0.225,12.651,0.07,-1.267,0.401,-0.43,64.418,26.268,7.854,1.466,0.077,"+sec_per_touch, +AST/TO, +assist%, +touches_36, -height, -weight"
+1,Low-Usage Role Wing,874,0.242,21.623,1339.155,0.15,78.935,0.457,0.093,11.478,0.076,-1.596,0.235,-0.465,3.141,16.788,36.283,38.259,5.645,"+corner-3 share, +pt_spotup, +pt_transition, +assisted 3s, -touches_36, -usage"
+2,Rim Protector,472,0.13,20.71,1289.473,0.157,82.564,0.053,0.093,17.794,0.154,0.257,0.877,0.506,0.053,0.157,0.303,9.386,90.157,"+screen_ast_36, +OREB%, +pt_cut, +rim (0-3ft) share, -3PA rate, -cs_fga_36"
+3,Movement / Spot-up Shooter,703,0.194,24.485,1564.474,0.181,77.703,0.567,0.106,12.25,0.075,-1.238,0.425,-0.514,9.836,37.554,34.943,16.725,1.043,"+pt_offscreen, +pt_handoff, +cs_fga_36, +3PA rate, -rim (0-3ft) share, -TOV%"
+4,Scoring Creator,538,0.149,31.668,1987.662,0.269,76.651,0.362,0.261,18.914,0.117,2.163,2.265,2.186,43.491,26.299,16.067,12.612,1.595,"+pullup_fga_36, +pt_isolation, +usage, +drives_36, -assisted 3s, -assisted 2s"
+5,Interior Scorer,436,0.121,24.611,1543.843,0.209,82.278,0.321,0.132,17.553,0.126,1.151,1.428,0.872,0.009,0.275,1.956,32.924,64.911,"+post_touch_36, +pt_prrollman, +def_rim_fga_36, +weight, -pt_handoff, -def_rim_fg_pct"
